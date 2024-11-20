@@ -36,4 +36,3 @@ Live Preview: https://parcoindia.netlify.app/
 
 Backend Hosted: https://Parco-Backend.theprakashkumar.repl.co/
 
-Backend Code: https://github.com/ThePrakashKumar/Sinema-Backend/
